@@ -1,5 +1,5 @@
 import React from 'react'
-import './header.css';
+import './Header.css';
 import SearchIcon from '@material-ui/icons/Search';
 import ShoppingBasketIcon from '@material-ui/icons/ShoppingBasket'; 
 import { Link } from 'react-router-dom';
